@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/) at Georgia Institute of Technology, advised by [Sukarno Mertoguno](https://sites.gatech.edu/karno/), starting from Fall 2023.
+I am a Ph.D. candidate at the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/) at Georgia Institute of Technology, advised by [Prof. Sukarno Mertoguno](https://sites.gatech.edu/karno/), starting from Fall 2023.
 
 My research interests lie in **System Security**, **GPU Security**, and **Hardware-assisted Security**.
 
