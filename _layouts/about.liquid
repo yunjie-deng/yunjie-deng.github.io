@@ -59,8 +59,9 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
+      <p style="font-size: 0.9em; color: var(--global-text-color-light); margin-top: -0.5em; margin-bottom: 1em;">("*" means equal contribution)</p>
       {% include selected_papers.liquid %}
     {% endif %}
 
@@ -70,6 +71,14 @@ layout: default
         <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+
+    <!-- ClustrMaps Visitor Map -->
+    {% if site.enable_clustrmaps%}
+      <div class="clustrmaps-container" style="margin-top: 2rem; text-align: center;">
+        <h2 style="margin-bottom: 1rem;">Visitor Map</h2>
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=cbf0ff&w=a&t=n&d=_T1-h4B8YCoR_a5usfxEyuzXG7uDSiosHXOuXH-EqwE&co=32aaff&cmo=00b92d&cmn=ffd700'></script>
       </div>
     {% endif %}
 
