@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-11'
 papers:
   a0Hap9QAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -14,7 +14,7 @@ papers:
     title: 'MOLE: Breaking GPU TEE with GPU-Embedded MCU'
     year: '2025'
   a0Hap9QAAAAJ:UeHWp8X0CEIC:
-    citations: 38
+    citations: 39
     title: 'CAGE: Complementing Arm CCA with GPU Extensions'
     year: '2024'
   a0Hap9QAAAAJ:Y0pCki6q_DkC:
