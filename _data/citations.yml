@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-18'
 papers:
   a0Hap9QAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -10,11 +10,11 @@ papers:
     title: 'BootRIST: Detecting and Isolating Mercurial Cores at the Booting Stage'
     year: '2024'
   a0Hap9QAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: 'MOLE: Breaking GPU TEE with GPU-Embedded MCU'
     year: '2025'
   a0Hap9QAAAAJ:UeHWp8X0CEIC:
-    citations: 41
+    citations: 44
     title: 'CAGE: Complementing Arm CCA with GPU Extensions'
     year: '2024'
   a0Hap9QAAAAJ:Y0pCki6q_DkC:
@@ -22,11 +22,11 @@ papers:
     title: Methods and apparatuses for executing gpu task in confidential compute architecture
     year: '2025'
   a0Hap9QAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: Building Confidential Accelerator Computing Environment for Arm CCA
     year: '2025'
   a0Hap9QAAAAJ:u-x6o8ySG0sC:
-    citations: 78
+    citations: 81
     title: 'Strongbox: A gpu tee on arm endpoints'
     year: '2022'
   a0Hap9QAAAAJ:u5HHmVD_uO8C:
