@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-26'
 papers:
   a0Hap9QAAAAJ:2osOgNQ5qMEC:
-    citations: 12
+    citations: 13
     title: Building a lightweight trusted execution environment for arm gpus
     year: '2023'
   a0Hap9QAAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: 'MOLE: Breaking GPU TEE with GPU-Embedded MCU'
     year: '2025'
   a0Hap9QAAAAJ:UeHWp8X0CEIC:
-    citations: 46
+    citations: 49
     title: 'CAGE: Complementing Arm CCA with GPU Extensions'
     year: '2024'
   a0Hap9QAAAAJ:Y0pCki6q_DkC:
@@ -26,7 +26,7 @@ papers:
     title: Building Confidential Accelerator Computing Environment for Arm CCA
     year: '2025'
   a0Hap9QAAAAJ:u-x6o8ySG0sC:
-    citations: 85
+    citations: 88
     title: 'Strongbox: A gpu tee on arm endpoints'
     year: '2022'
   a0Hap9QAAAAJ:u5HHmVD_uO8C:
