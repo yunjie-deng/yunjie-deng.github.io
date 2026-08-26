@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-26'
 papers:
   a0Hap9QAAAAJ:2osOgNQ5qMEC:
     citations: 14
@@ -22,11 +22,11 @@ papers:
     title: Methods and apparatuses for executing gpu task in confidential compute architecture
     year: '2025'
   a0Hap9QAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: Building Confidential Accelerator Computing Environment for Arm CCA
     year: '2025'
   a0Hap9QAAAAJ:u-x6o8ySG0sC:
-    citations: 91
+    citations: 92
     title: 'Strongbox: A gpu tee on arm endpoints'
     year: '2022'
   a0Hap9QAAAAJ:u5HHmVD_uO8C:
