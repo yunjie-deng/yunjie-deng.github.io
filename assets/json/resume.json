@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Yunjie Deng",
-    "label": "Ph.D. Candidate",
+    "label": "Ph.D. Student",
     "image": "",
     "email": "yunjie.deng@gatech.edu",
     "url": "https://yunjie-deng.github.io/",
-    "summary": "Ph.D. Candidate in Cybersecurity at Georgia Institute of Technology. Research interests: System Security, Hardware-assisted Security.",
+    "summary": "Ph.D. Student in Cybersecurity at Georgia Institute of Technology. Research interests: System Security, Hardware-assisted Security.",
     "location": {
       "city": "Atlanta",
       "countryCode": "US",
