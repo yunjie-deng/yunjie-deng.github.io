@@ -59,12 +59,7 @@
       "name": "Research Areas",
       "level": "Expert",
       "icon": "fa-solid fa-shield-halved",
-      "keywords": [
-        "System Security",
-        "Hardware-assisted Security",
-        "GPU Security",
-        "Trusted Execution Environment (TEE)"
-      ]
+      "keywords": ["System Security", "Hardware-assisted Security", "GPU Security", "Trusted Execution Environment (TEE)"]
     }
   ],
   "languages": [
@@ -88,12 +83,7 @@
     {
       "name": "Cybersecurity",
       "icon": "fa-solid fa-lock",
-      "keywords": [
-        "System Security",
-        "Hardware-assisted Security",
-        "GPU TEE",
-        "Arm Security"
-      ]
+      "keywords": ["System Security", "Hardware-assisted Security", "GPU TEE", "Arm Security"]
     }
   ]
 }
